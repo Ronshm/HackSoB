@@ -1,5 +1,10 @@
-# HackSoB
-Sob Hackathon project
+# S.o.B
+### S.o.b Hackathon Project!
+#### At the 2nd BIU Cyber Academic Hackathon- Ai Applications for cyber security.
+
+![sob_render_small](https://user-images.githubusercontent.com/28874894/34703158-2701e91a-f4fa-11e7-97b6-67569af29aa5.png)
+
+Needless to say, we won :)
 
 Deep Learning notes:
 
